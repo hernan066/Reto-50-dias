@@ -13,3 +13,6 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 ### Dia 4
 <a href="https://codepen.io/hernan066/pen/gOGEjYv">Scroll animation</a>
 
+### Dia 5
+<a href="https://codepen.io/hernan066/pen/GRMPVKR">Hidden search</a>
+
