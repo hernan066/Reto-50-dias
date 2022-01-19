@@ -16,3 +16,6 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 ### Dia 5
 <a href="https://codepen.io/hernan066/pen/GRMPVKR">Hidden search</a>
 
+### Dia 6
+<a href="https://codepen.io/hernan066/pen/RwLmaea">Blurry loading</a>
+
