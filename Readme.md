@@ -19,3 +19,6 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 ### Dia 6
 <a href="https://codepen.io/hernan066/pen/RwLmaea">Blurry loading</a>
 
+### Dia 7
+<a href="https://codepen.io/hernan066/pen/VwMJPgp">Split landing page</a>
+
