@@ -22,3 +22,6 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 ### Dia 7
 <a href="https://codepen.io/hernan066/pen/VwMJPgp">Split landing page</a>
 
+### Dia 8
+<a href="https://codepen.io/hernan066/pen/OJxGzqy">Login wave</a>
+
