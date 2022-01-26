@@ -37,3 +37,6 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 ### Dia 12
 <a href="https://codepen.io/hernan066/pen/JjOjWwX">FAQ collapse</a>
 
+### Dia 13
+<a href="https://codepen.io/hernan066/pen/eYemExX">Randon piker</a>
+
