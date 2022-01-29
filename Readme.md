@@ -46,3 +46,6 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 ### Dia 15
 <a href="https://codepen.io/hernan066/pen/rNYVRpj">Incrementing Counter</a>
 
+### Dia 16
+<a href="https://codepen.io/hernan066/pen/BamNbea">Drink water</a>
+
