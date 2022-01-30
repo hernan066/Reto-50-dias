@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap");
+
+:root {
+  --primary-color: #080f28;
+  --secondary-color: #141a32;
+ 
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: var(--primary-color);
+  
+}
+header {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background-color: var(--secondary-color);
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap; 
+}
+h1 {
+  font-size: 2rem;
+  color: white;
+  font-weight: 400;
+  margin: .5rem 0;
+  
+}
+.search {
+  background-color: transparent;
+  border: 2px solid var(--primary-color);
+  border-radius: 50px;
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  color: white;
+  
+}
+.search::placeholder {
+  color: #7378c5;
+}
+
+.search:focus {
+  outline: none;
+  background-color: var(--primary-color);
+}
+
+main {
+  display: grid;
+  gap: 2rem;
+  /* full responsive in one line */
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  padding: 2rem; 
+}
+
+.movie {
+  background-color: var(--secondary-color);
+  position: relative;
+  overflow: hidden;
+  border-radius: 3px;
+}
+
+.movie img {
+  width: 100%;
+}
+.movie-info {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem 1rem;
+  letter-spacing: 0.5px;
+}
+
+.movie-info h3 {
+  font-weight: 400;
+}
+
+.movie-info span {
+  background-color: var(--primary-color);
+  padding: 0.25rem 0.5rem;
+  border-radius: 3px;
+  font-weight: bold;
+}
+.movie-info span.green {
+  color: #59b559;
+}
+
+.movie-info span.orange {
+  color: #f6aa4c;
+}
+
+.movie-info span.red {
+  color: #d95950;
+}
+.overview {
+  background-color: #d1d1d1;
+  border-radius: 3px;
+  padding: 2rem;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  max-width: 100%;
+  transform: translateY(101%);
+  transition: transform 0.5s ease-in;
+}
+
+.movie:hover .overview {
+  transform: translateY(0);
+}
+
+@media (max-width: 480px) {
+  :root {
+    font-size: 12px;
+  
+  }
+}
+@media (max-width: 360px) {
+  :root {
+    font-size: 10px;
+  
+  }
+}
