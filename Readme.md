@@ -52,3 +52,6 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 ### Dia 17
 <a href="https://codepen.io/hernan066/pen/BamNbea">Movie app</a>
 
+### Dia 17
+<a href="https://codepen.io/hernan066/pen/gOXPXvK">Slider</a>
+
