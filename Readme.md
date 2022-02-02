@@ -58,3 +58,6 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 ### Dia 19
 <a href="https://codepen.io/hernan066/pen/YzEqZxO">Simple clock</a>
 
+### Dia 20
+<a href="https://codepen.io/hernan066/pen/wvPGVqZ">Drag and drop</a>
+
