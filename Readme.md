@@ -61,3 +61,6 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 ### Dia 20
 <a href="https://codepen.io/hernan066/pen/wvPGVqZ">Drag and drop</a>
 
+### Dia 21
+<a href="https://codepen.io/hernan066/pen/xxPOadg">Canvas paint</a>
+
