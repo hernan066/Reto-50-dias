@@ -64,3 +64,6 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 ### Dia 21
 <a href="https://codepen.io/hernan066/pen/xxPOadg">Canvas paint</a>
 
+### Dia 22
+<a href="https://codepen.io/hernan066/pen/YzEGEgG">Loading animation</a>
+
