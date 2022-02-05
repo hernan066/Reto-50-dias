@@ -67,3 +67,6 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 ### Dia 22
 <a href="https://codepen.io/hernan066/pen/YzEGEgG">Loading animation</a>
 
+### Dia 23
+<a href="https://codepen.io/hernan066/pen/GRONpaW">Wave effect button</a>
+
