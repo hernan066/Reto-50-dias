@@ -73,6 +73,9 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 ### Dia 24
 <a href="https://codepen.io/hernan066/pen/OJObZLg">CSS Loading</a>
 
+### Dia 25
+<a href="https://codepen.io/hernan066/pen/zYPNPvP">CSS Loading</a>
+
 
 
  
