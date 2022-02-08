@@ -76,6 +76,9 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 ### Dia 25
 <a href="https://codepen.io/hernan066/pen/zYPNPvP">Sticky navbar</a>
 
+### Dia 26
+<a href="https://codepen.io/hernan066/pen/YzEZPNy">Doble click like</a>
+
 
 
  
