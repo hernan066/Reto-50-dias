@@ -79,6 +79,9 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 ### Dia 26
 <a href="https://codepen.io/hernan066/pen/YzEZPNy">Doble click like</a>
 
+### Dia 27
+<a href="https://codepen.io/hernan066/pen/zYPZeGO">Parallax card</a>
+
 
 
  
