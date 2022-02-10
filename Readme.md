@@ -82,6 +82,9 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 ### Dia 27
 <a href="https://codepen.io/hernan066/pen/zYPZeGO">Parallax card</a>
 
+### Dia 28
+<a href="https://codepen.io/hernan066/pen/zYPZeGO">Vertical slider</a>
+
 
 
  
