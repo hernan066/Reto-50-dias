@@ -85,6 +85,9 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 ### Dia 28
 <a href="https://codepen.io/hernan066/pen/zYPZeGO">Vertical slider</a>
 
+### Dia 29
+<a href="https://codepen.io/hernan066/pen/zYPZeGO">Notificacion message</a>
+
 
 
  
