@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(63,94,251);
+  background: linear-gradient(0deg, rgba(63,94,251,0.35057773109243695) 0%, rgba(241,241,241,1) 100%);
+  color: #fff;
+  font-family: "Muli", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  padding: 10px;
+  margin: 0;
+}
+
+h2 {
+  margin: 10px 0 20px;
+  text-align: center;
+}
+
+.container {
+  background-color: #976f18;
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+  padding: 30px;
+  width: 350px;
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+.container:before {
+  content: "";
+  display: block;
+  position: absolute;
+  border:20px solid #d0d2d3;
+  top: calc(50% - 350px);
+  left: calc(50% - 120px);
+  width: 200px;
+  height: 200px;
+  border-radius: 50px 50px 0 0;
+  
+ 
+  box-shadow: 2px 2px 8px rgba(56, 54, 51, 0.8), inset 2px 2px 5px rgba(56, 54, 51, 0.7);
+ 
+  
+  z-index: -1;
+}
+
+.result-container {
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  position: relative;
+  font-size: 18px;
+  letter-spacing: 1px;
+  padding: 12px 10px;
+  height: 50px;
+  width: 100%;
+}
+
+.result-container #result {
+  word-wrap: break-word;
+  max-width: calc(100% - 40px);
+  overflow-y: scroll;
+  height: 100%;
+}
+
+#result::-webkit-scrollbar {
+  width: 1rem;
+}
+
+.result-container .btn {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+}
+
+.btn {
+  border: none;
+  background-color: #968529;
+  color: #fff;
+  font-size: 16px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.btn-large {
+  display: block;
+  width: 100%;
+}
+
+.setting {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px 0;
+}
+.setting input:checked{
+  background-color: #f39121;
+}

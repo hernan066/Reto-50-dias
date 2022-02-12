@@ -88,6 +88,9 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 ### Dia 29
 <a href="https://codepen.io/hernan066/pen/zYPZeGO">Notificacion message</a>
 
+### Dia 30
+<a href="https://codepen.io/hernan066/pen/ExbXqWQ">Password generator</a>
+
 
 
  
