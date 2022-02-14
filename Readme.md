@@ -92,7 +92,7 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 <a href="https://codepen.io/hernan066/pen/ExbXqWQ">Password generator</a>
 
 ### Dia 31
-<a href="https://codepen.io/hernan066/pen/ExbXqWQ">Poke Api</a>
+<a href="https://poke-api-hernan.netlify.app/">Poke Api</a>
 
 
 
