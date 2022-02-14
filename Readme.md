@@ -94,6 +94,9 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 ### Dia 31
 <a href="https://poke-api-hernan.netlify.app/">Poke Api</a>
 
+### Dia 32
+<a href="https://note-app-hernan0066.netlify.app/">Note app</a>
+
 
 
  
