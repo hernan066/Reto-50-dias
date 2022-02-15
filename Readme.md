@@ -1,112 +1,190 @@
 # Reto-50-dias
 Este es un reto personal de crear un mini proyecto de html-css-javascript, por 50 dias seguidos.
 
-### Dia 1
-<a href="https://codepen.io/hernan066/pen/poWQBwK">Expanding cards</a>
+<table>
+<thead>
+<tr>
+<th align="center">Day</th>
+<th>Project</th>
+<th>Demo</th>
+</tr>
+</thead>
+<tbody>
 
-### Dia 2
-<a href="https://codepen.io/hernan066/pen/wvrRoYN">Progress steps</a>
+<tr>
+<td align="center">01</td>
+<td>Expanding Cards</td>
+<td><a href="https://codepen.io/hernan066/pen/poWQBwK" rel="nofollow">Demo</a></td>
+</tr>
 
-### Dia 3
-<a href="https://codepen.io/hernan066/pen/MWEZJRO">Rotating navigation</a>
-
-### Dia 4
-<a href="https://codepen.io/hernan066/pen/gOGEjYv">Scroll animation</a>
-
-### Dia 5
-<a href="https://codepen.io/hernan066/pen/GRMPVKR">Hidden search</a>
-
-### Dia 6
-<a href="https://codepen.io/hernan066/pen/RwLmaea">Blurry loading</a>
-
-### Dia 7
-<a href="https://codepen.io/hernan066/pen/VwMJPgp">Split landing page</a>
-
-### Dia 8
-<a href="https://codepen.io/hernan066/pen/OJxGzqy">Login wave</a>
-
-### Dia 9
-<a href="#">Sound board</a>
-
-### Dia 10
-<a href="https://codepen.io/hernan066/pen/PoJMgQe">Api jokes</a>
-
-### Dia 11
-<a href="https://codepen.io/hernan066/pen/zYPOReP">Key code</a>
-
-### Dia 12
-<a href="https://codepen.io/hernan066/pen/JjOjWwX">FAQ collapse</a>
-
-### Dia 13
-<a href="https://codepen.io/hernan066/pen/eYemExX">Randon piker</a>
-
-### Dia 14
-<a href="https://codepen.io/hernan066/pen/ExbjWdM">Animated navigation</a>
-
-### Dia 15
-<a href="https://codepen.io/hernan066/pen/rNYVRpj">Incrementing Counter</a>
-
-### Dia 16
-<a href="https://codepen.io/hernan066/pen/BamNbea">Drink water</a>
-
-### Dia 17
-<a href="https://codepen.io/hernan066/pen/BamNbea">Movie app</a>
-
-### Dia 18
-<a href="https://codepen.io/hernan066/pen/gOXPXvK">Slider</a>
-
-### Dia 19
-<a href="https://codepen.io/hernan066/pen/YzEqZxO">Simple clock</a>
-
-### Dia 20
-<a href="https://codepen.io/hernan066/pen/wvPGVqZ">Drag and drop</a>
-
-### Dia 21
-<a href="https://codepen.io/hernan066/pen/xxPOadg">Canvas paint</a>
-
-### Dia 22
-<a href="https://codepen.io/hernan066/pen/YzEGEgG">Loading animation</a>
-
-### Dia 23
-<a href="https://codepen.io/hernan066/pen/GRONpaW">Wave effect button</a>
-
-### Dia 24
-<a href="https://codepen.io/hernan066/pen/OJObZLg">CSS Loading</a>
-
-### Dia 25
-<a href="https://codepen.io/hernan066/pen/zYPNPvP">Sticky navbar</a>
-
-### Dia 26
-<a href="https://codepen.io/hernan066/pen/YzEZPNy">Doble click like</a>
-
-### Dia 27
-<a href="https://codepen.io/hernan066/pen/zYPZeGO">Parallax card</a>
-
-### Dia 28
-<a href="https://codepen.io/hernan066/pen/zYPZeGO">Vertical slider</a>
-
-### Dia 29
-<a href="https://codepen.io/hernan066/pen/zYPZeGO">Notificacion message</a>
-
-### Dia 30
-<a href="https://codepen.io/hernan066/pen/ExbXqWQ">Password generator</a>
-
-### Dia 31
-<a href="https://poke-api-hernan.netlify.app/">Poke Api</a>
-
-### Dia 32
-<a href="https://note-app-hernan0066.netlify.app/">Note app</a>
+<tr>
+<td align="center">02</td>
+<td>Progress Steps</td>
+<td><a href="https://codepen.io/hernan066/pen/wvrRoYN" rel="nofollow">Demo</a></td>
+</tr>
 
 
+<tr>
+<td align="center">03</td>
+<td>Rotating navigation</td>
+<td><a href="https://codepen.io/hernan066/pen/MWEZJRO" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+<td align="center">04</td>
+<td>Scroll animation</td>
+<td><a href="https://codepen.io/hernan066/pen/gOGEjYv" rel="nofollow">Demo</a></td>
+</tr>
+
+<tr>
+<td align="center">05</td>
+<td>Hidden search</a></td>
+<td><a href="https://codepen.io/hernan066/pen/GRMPVKR" rel="nofollow">Demo</a></td>
+</tr>
+
+<tr>
+<td align="center">06</td>
+<td>Blurry loading</a></td>
+<td><a href="https://codepen.io/hernan066/pen/RwLmaea" rel="nofollow">Demo</a></td>
+</tr>
+
+<tr>
+<td align="center">07</td>
+<td>Split landing page</a></td>
+<td><a href="https://codepen.io/hernan066/pen/VwMJPgp" rel="nofollow">Demo</a></td>
+</tr>
+
+<tr>
+<td align="center">08</td>
+<td>Login wave</a></td>
+<td><a href="https://codepen.io/hernan066/pen/OJxGzqy" rel="nofollow">Demo</a></td>
+</tr>
+
+<tr>
+<td align="center">09</td>
+<td>Sound board</a></td>
+<td><a href="#" rel="nofollow">Demo</a></td>
+</tr>
+
+
+<tr>
+<td align="center">10</td>
+<td>Api jokes</a></td>
+<td><a href="https://codepen.io/hernan066/pen/PoJMgQe" rel="nofollow">Demo</a></td>
+</tr>
+
+<tr>
+<td align="center">11</td>
+<td>Key code</a></td>
+<td><a href="https://codepen.io/hernan066/pen/zYPOReP" rel="nofollow">Demo</a></td>
+</tr>
+
+<tr>
+<td align="center">12</td>
+<td>FAQ collapse</a></td>
+<td><a href="https://codepen.io/hernan066/pen/JjOjWwX" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">13</td>
+<td>Randon piker</a></td>
+<td><a href="https://codepen.io/hernan066/pen/eYemExX" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">14</td>
+<td>Animated navigation</a></td>
+<td><a href="https://codepen.io/hernan066/pen/ExbjWdM" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">15</td>
+<td>Incrementing Counter</a></td>
+<td><a href="https://codepen.io/hernan066/pen/rNYVRpj" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">16</td>
+<td>Drink water</a></td>
+<td><a href="https://codepen.io/hernan066/pen/BamNbea" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">17</td>
+<td>Movie app</a></td>
+<td><a href="https://codepen.io/hernan066/pen/BamNbea" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">18</td>
+<td>Slider</a></td>
+<td><a href="https://codepen.io/hernan066/pen/gOXPXvK" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">19</td>
+<td>Simple clock</a></td>
+<td><a href="https://codepen.io/hernan066/pen/YzEqZxO" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">20</td>
+<td>Drag and drop</a></td>
+<td><a href="https://codepen.io/hernan066/pen/wvPGVqZ" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">21</td>
+<td>Canvas paint</a></td>
+<td><a href="https://codepen.io/hernan066/pen/xxPOadg" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">22</td>
+<td>Loading animation</a></td>
+<td><a href="https://codepen.io/hernan066/pen/YzEGEgG" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">23</td>
+<td>Wave effect button</a></td>
+<td><a href="https://codepen.io/hernan066/pen/GRONpaW" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">24</td>
+<td>CSS Loading</a></td>
+<td><a href="https://codepen.io/hernan066/pen/OJObZLg" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">25</td>
+<td>Sticky navbar</a></td>
+<td><a href="https://codepen.io/hernan066/pen/zYPNPvP" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">26</td>
+<td>Doble click like</a></td>
+<td><a href="https://codepen.io/hernan066/pen/YzEZPNy" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">27</td>
+<td>Parallax card</a></td>
+<td><a href="https://codepen.io/hernan066/pen/zYPZeGO" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">28</td>
+<td>Vertical slider</a></td>
+<td><a href="https://codepen.io/hernan066/pen/MWOmBya" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">29</td>
+<td>Notificacion message</a></td>
+<td><a href="https://codepen.io/hernan066/pen/OJOggWa" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">30</td>
+<td>Password generator</a></td>
+<td><a href="https://codepen.io/hernan066/pen/ExbXqWQ" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">31</td>
+<td>Poke Api</a></td>
+<td><a href="https://poke-api-hernan.netlify.app/" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">32</td>
+<td>Note app</a></td>
+<td><a href="https://note-app-hernan0066.netlify.app/" rel="nofollow">Demo</a></td>
+</tr>
+
+
+</tbody>
+</table>
