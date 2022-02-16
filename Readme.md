@@ -189,6 +189,11 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 <td>Countdown</a></td>
 <td><a href="https://codepen.io/hernan066/pen/ZEaXwgq" rel="nofollow">Demo</a></td>
 </tr>
+<tr>
+<td align="center">34</td>
+<td>Password blur</a></td>
+<td><a href="https://codepen.io/hernan066/pen/jOaaXPJ" rel="nofollow">Demo</a></td>
+</tr>
 
 
 </tbody>
