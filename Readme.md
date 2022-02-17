@@ -194,6 +194,11 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 <td>Password blur</a></td>
 <td><a href="https://codepen.io/hernan066/pen/jOaaXPJ" rel="nofollow">Demo</a></td>
 </tr>
+<tr>
+<td align="center">35</td>
+<td>Flip cards 3D</a></td>
+<td><a href="https://codepen.io/hernan066/pen/BamJdxG" rel="nofollow">Demo</a></td>
+</tr>
 
 
 </tbody>
