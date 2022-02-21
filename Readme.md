@@ -107,7 +107,7 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 <tr>
 <td align="center">17</td>
 <td>Movie app</a></td>
-<td><a href="https://codepen.io/hernan066/pen/BamNbea" rel="nofollow">Demo</a></td>
+<td><a href="https://codepen.io/hernan066/pen/zYPGXYp" rel="nofollow">Demo</a></td>
 </tr>
 <tr>
 <td align="center">18</td>
@@ -213,6 +213,11 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 <td align="center">38</td>
 <td>>Parallax slider</a></td>
 <td><a href="https://codepen.io/hernan066/pen/LYOdeqR" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">39</td>
+<td>>Neon light effect</a></td>
+<td><a href="https://codepen.io/hernan066/pen/gOXzamV" rel="nofollow">Demo</a></td>
 </tr>
 
 
