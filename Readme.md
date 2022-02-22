@@ -219,6 +219,11 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 <td>>Neon light effect</a></td>
 <td><a href="https://codepen.io/hernan066/pen/gOXzamV" rel="nofollow">Demo</a></td>
 </tr>
+<tr>
+<td align="center">40</td>
+<td>>Dancing Paragraph</a></td>
+<td><a href="https://codepen.io/hernan066/pen/gOXzrmz" rel="nofollow">Demo</a></td>
+</tr>
 
 
 </tbody>
