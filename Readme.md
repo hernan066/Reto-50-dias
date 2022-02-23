@@ -224,6 +224,11 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 <td>>Dancing Paragraph</a></td>
 <td><a href="https://codepen.io/hernan066/pen/gOXzrmz" rel="nofollow">Demo</a></td>
 </tr>
+<tr>
+<td align="center">41</td>
+<td>>Social media buttons</a></td>
+<td><a href="https://codepen.io/hernan066/pen/vYWrzxB" rel="nofollow">Demo</a></td>
+</tr>
 
 
 </tbody>
