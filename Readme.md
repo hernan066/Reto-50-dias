@@ -211,7 +211,7 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 </tr>
 <tr>
 <td align="center">38</td>
-<td>>Parallax slider</a></td>
+<td>Parallax slider</a></td>
 <td><a href="https://codepen.io/hernan066/pen/LYOdeqR" rel="nofollow">Demo</a></td>
 </tr>
 <tr>
@@ -221,13 +221,18 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 </tr>
 <tr>
 <td align="center">40</td>
-<td>>Dancing Paragraph</a></td>
+<td>Dancing Paragraph</a></td>
 <td><a href="https://codepen.io/hernan066/pen/gOXzrmz" rel="nofollow">Demo</a></td>
 </tr>
 <tr>
 <td align="center">41</td>
 <td>>Social media buttons</a></td>
 <td><a href="https://codepen.io/hernan066/pen/vYWrzxB" rel="nofollow">Demo</a></td>
+</tr>
+<tr>
+<td align="center">42</td>
+<td>Memory game</a></td>
+<td><a href="https://memory-game-hernan0066.netlify.app/" rel="nofollow">Demo</a></td>
 </tr>
 
 
