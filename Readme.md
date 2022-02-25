@@ -234,6 +234,11 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 <td>Memory game</a></td>
 <td><a href="https://memory-game-hernan0066.netlify.app/" rel="nofollow">Demo</a></td>
 </tr>
+<tr>
+<td align="center">43</td>
+<td>Svg stroke animation</a></td>
+<td><a href="https://codepen.io/hernan066/pen/ExbeyOW" rel="nofollow">Demo</a></td>
+</tr>
 
 
 </tbody>
