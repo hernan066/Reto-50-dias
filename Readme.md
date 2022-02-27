@@ -244,6 +244,11 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 <td>Squid game</a></td>
 <td><a href="https://codepen.io/hernan066/pen/oNoPJpP" rel="nofollow">Demo</a></td>
 </tr>
+<tr>
+<td align="center">45</td>
+<td>Distortion hover effect</a></td>
+<td><a href="https://distortion-hover-effect-hernan0066.netlify.app/" rel="nofollow">Demo</a></td>
+</tr>
 
 
 </tbody>

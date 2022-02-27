@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Catamaran:wght@300;700&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+  font-family: "Catamaran", sans-serif;
+  min-height: 100vh;
+  width: 100%;
+  overflow: hidden;
+}
+
+.container .box1 {
+  background-color: #f1f0ec;
+  color: #111;
+  padding: 5.625rem;
+  text-align: center;
+}
+.container .box1 img {
+  height: 150px;
+}
+
+.container .box1 h2 {
+  font-size: 4rem;
+}
+.container .box1 p {
+  margin-top: 50px;
+  font-size: 1.2rem;
+}
+.container .box1 button {
+  margin-top: 80px;
+  margin-right: 20px;
+  padding: 10px 15px;
+  border-radius: 20px;
+  color: #fff;
+  background-color: #000;
+  cursor: pointer;
+  border: none;
+  font-size: 1rem;
+}
+.container .box1 button:hover {
+  background-color: #222;
+}
+
+.container .box2 {
+  position: relative;
+}
+.container .box2 img {
+  width: 100%;
+  height: 100%;
+}
+.container .box2 .description {
+  position: absolute;
+  color: #fff;
+  top: 8%;
+  left: 20%;
+  transition: 0.5s;
+}
+
+.container .box2 .description h2 {
+  font-size: 5rem;
+  text-shadow: 0px 2px 2px #000;
+}
+.container .box2 .description h4 {
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  margin-bottom: -20px;
+  text-shadow: 0px 2px 2px #000;
+}
+.container .box2 .description .text {
+  margin-top: 550px;
+  transition: all 0.7s;
+  opacity: 0;
+}
+.container .box2:hover .description .text {
+  opacity: 1;
+}
+
+.container .box2 .description .text p {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+.container .box2 .description .text a {
+  background-color: #fff;
+  padding: 10px 15px;
+  border-radius: 20px;
+
+  font-size: 1rem;
+  text-decoration: none;
+  color: #111;
+}
+
