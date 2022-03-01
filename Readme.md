@@ -254,6 +254,11 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 <td>Clip-path transform</a></td>
 <td><a href="https://codepen.io/hernan066/pen/oNoaRKg" rel="nofollow">Demo</a></td>
 </tr>
+<tr>
+<td align="center">47</td>
+<td>Cube 3d</a></td>
+<td><a href="https://codepen.io/hernan066/pen/eYeQgKw" rel="nofollow">Demo</a></td>
+</tr>
 
 
 </tbody>
