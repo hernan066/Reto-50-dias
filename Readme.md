@@ -269,6 +269,11 @@ Este es un reto personal de crear un mini proyecto de html-css-javascript, por 5
 <td>Quiz App</a></td>
 <td><a href="https://quiz-app-hernan0066.netlify.app/" rel="nofollow">Demo</a></td>
 </tr>
+<tr>
+<td align="center">50</td>
+<td>Perspective card</a></td>
+<td><a href="https://codepen.io/hernan066/pen/zYPeQxB" rel="nofollow">Demo</a></td>
+</tr>
 
 
 </tbody>
